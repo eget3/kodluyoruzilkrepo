@@ -1,7 +1,6 @@
 # Kodluyoruz İlk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Dront-End Eğitinde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-
-![Proje resmi](C:\Users\PC\OneDrive\Resimler\Ekran Görüntüleri\Screenshot (209).png)
+![Proje resmi](https://cdn.discordapp.com/attachments/897900664779341875/1079146534542770267/proje_resmi.png)
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ```
