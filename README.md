@@ -4,11 +4,15 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Dront-End Eğitinde oluşturdu
 ![Proje resmi](C:\Users\PC\OneDrive\Resimler\Ekran Görüntüleri\Screenshot (209).png)
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-```git clone https://github.com/eget3/kodluyoruzilkrepo.git```
+```
+git clone https://github.com/eget3/kodluyoruzilkrepo.git
+```
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
-```cd kodluyoruzilkrepo code .```
+```
+cd kodluyoruzilkrepo code .
+```
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 # License
